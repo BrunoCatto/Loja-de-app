@@ -13,7 +13,7 @@ body{
     height: 100vh;
     background-image: linear-gradient(to bottom right, #161515 0%, #133a3f 40%,#28676b 60%,#34f1ff 100%);
     background-size: 200% 200%;
-    animation: float 5s linear infinite alternate;
+    animation: float 6s linear infinite alternate;
     
 }
 @keyframes float {
@@ -22,7 +22,7 @@ body{
 }
 section{
     padding: 45px;
-    background-color: #ffffff;
+    background-color: #0000009a;
     width: 500px;
     border-radius: 15px;
     display: flex;
