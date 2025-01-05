@@ -22,7 +22,7 @@ body{
 }
 section{
     padding: 45px;
-    background-color: linear-gradient (#161515, #133a3f,#28676b,#34f1ff);
+    background-color: gradient (#161515, #133a3f,#28676b,#34f1ff);
     width: 500px;
     border-radius: 15px;
     display: flex;
